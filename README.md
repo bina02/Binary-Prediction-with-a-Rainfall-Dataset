@@ -50,7 +50,8 @@ Scaling with standard scaler only
 ROC AUC score
 ## 5.2 Performance
 ### 5.2.1 First update
-![alt text](image.png)
+<img width="567" height="454" alt="image" src="https://github.com/user-attachments/assets/5d6714a5-a936-4c15-a103-a61ed24beac2" />
+
 **ROC AUC score: 0.8777(logistic regression)**
 # 6. Future Improvements
 - Experiment with various classifiers such as XGBoost, LightGBM, and CatBoost.
