@@ -56,3 +56,4 @@ ROC AUC score
 # 6. Future Improvements
 - Experiment with various classifiers such as XGBoost, LightGBM, and CatBoost.
 - Perform hyperparameter tuning using GridSearch.
+- Data augmentation
