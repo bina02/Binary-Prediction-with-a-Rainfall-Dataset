@@ -61,7 +61,8 @@ Scaling with standard scaler only
 ROC AUC score
 ## 5.2 Performance
 ### 5.2.1 1st update
-![alt text](image.png)
+<img width="500" height="400" alt="1st_roc_curve" src="https://github.com/user-attachments/assets/0ecae98b-e246-438d-825a-76c9bfc44207" />
+
 **ROC AUC score: 0.8777(logistic regression)**
 
 ### 5.2.2 2nd update
